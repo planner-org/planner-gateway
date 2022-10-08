@@ -1,4 +1,4 @@
-package com.projects.planner.plannergateway;
+package com.projects.planner.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
